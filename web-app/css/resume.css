@@ -1,0 +1,80 @@
+table {
+	width:auto;
+}
+textarea.resume.ui-tabs-panel {
+	background-color: #fcfcfc;
+    border: 1px solid #cfcfcf; 
+    padding: 5px 5px;   
+    font: 14px verdana,arial,helvetica,sans-serif; 
+}
+
+input.resume {
+	background-color: #fcfcfc;
+    border: 1px solid #cfcfcf; 
+    padding: 5px 5px;   
+    font: 11px verdana,arial,helvetica,sans-serif; 
+}
+
+#sections {
+	 margin-top: 20px; 
+}
+
+#sections div {
+	 overflow:scroll; 
+	 height: 400px;
+	 width: auto;
+}
+
+#properties {
+	border: 1px solid #cfcfcf; 
+}
+
+#user-nav {
+	float:right;
+	font-size: 10px;
+}
+
+table.dynamic-table {
+	border-collapse:collapse;
+	border-spacing:0px;
+}
+
+input.dynamic-table-image {
+	vertical-align: bottom;
+	padding: 0 0;
+	
+}
+/*
+input#skills {
+	background-color: #fcfcfc; 
+	padding: 0 4px;
+	margin :0 0;
+	
+}
+
+input#education {
+	background-color: #fcfcfc; 
+	padding: 0 4px;
+	margin :0 0;
+}
+input#employment {
+	background-color: #fcfcfc; 
+	padding: 0 4px;
+	margin :0 0;
+}
+*/
+input.dynamic-table {
+	padding: 0 4px;
+	margin :0 0;
+	
+}
+
+td.dynamic-table {
+    font: 11px verdana,arial,helvetica,sans-serif;  
+    padding: 0 4px;
+}
+
+span {
+	display:inline-block;
+	/*vertical-align: middle;*/
+}
